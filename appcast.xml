@@ -4,7 +4,7 @@
     <title>Wasty Updates</title>
     <item>
       <title>Version 1.0.29</title>
-      <sparkle:releaseNotesLink>https://www.wasty.gr/releasenotes</sparkle:releaseNotesLink>
+      <sparkle:criticalUpdate />
       <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/Wasty-gr/wasty-win-dist/releases/download/v1.0.29/Wasty-v1.0.29-Setup.exe" 
                  sparkle:dsaSignature="MDwCHHoe6I/J8jn9sCCNiDXHwsQqMMH3N+gd3bN6vWUCHDLG0LSNt6d3GN4p+AwwryWX9say31gb59n7ZJc=" 
