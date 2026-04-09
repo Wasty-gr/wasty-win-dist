@@ -7,7 +7,7 @@
       <sparkle:version>1.0.29+30</sparkle:version>
       <sparkle:criticalUpdate />
       <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/Wasty-gr/wasty-win-dist/releases/download/Wasty v.1.0.29/Wasty-v1.0.29_Full_Setup.exe" 
+      <enclosure url="https://github.com/Wasty-gr/wasty-win-dist/releases/download/v.1.0.29/Wasty-v1.0.29_Full_Setup.exe" 
                  sparkle:dsaSignature="MDwCHHoe6I/J8jn9sCCNiDXHwsQqMMH3N+gd3bN6vWUCHDLG0LSNt6d3GN4p+AwwryWX9say31gb59n7ZJc="
                  sparkle:os="windows" 
                  length="0" 
